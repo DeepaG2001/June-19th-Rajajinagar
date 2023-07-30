@@ -1,0 +1,20 @@
+package com.xworkz.deepa.app;
+
+public class Salesman {
+
+
+	public String name = "ranjith";
+	public  double salary =18000;
+	
+	
+	public void productSale()
+	{
+		System.out.println("invoking productSale in salesMan");
+		
+	}
+	public void feedBack()
+	{
+		System.out.println("invoking feedBack in salesMan");
+	}
+
+}

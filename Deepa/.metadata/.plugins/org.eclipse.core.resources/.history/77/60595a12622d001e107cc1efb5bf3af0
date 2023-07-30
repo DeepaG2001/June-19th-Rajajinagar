@@ -1,0 +1,18 @@
+package com.xworkz.Mechanical.app;
+
+public class Mechanic {
+
+	public String qualification;
+	public  double experience;
+	
+	public void repair()
+	{
+		System.out.println("invocking repait in Mechanic");
+	}
+	
+	public void washingVehical()
+	
+	{
+		System.out.println("invocking washingVehical in Mechanic");
+	}
+}
