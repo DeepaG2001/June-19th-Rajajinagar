@@ -5,4 +5,9 @@
     <fullyQualifiedTypeName name="com.xworkz.inheritance.app.Aeroplane"/>
     <fullyQualifiedTypeName name="com.xworks.six.app.Mall"/>
     <fullyQualifiedTypeName name="com.xworkz.Seven.app.Computer"/>
+    <fullyQualifiedTypeName name="com.xworkz.casting.app.util.ShowroomUtil"/>
+    <fullyQualifiedTypeName name="com.xworkz.casting.util2.ChocolateUtil"/>
+    <fullyQualifiedTypeName name="com.xworkz.casting.util4.BrandUtil"/>
+    <fullyQualifiedTypeName name="com.xworkz.chaining.app.Mushroom"/>
+    <fullyQualifiedTypeName name="com.xworkz.chaining.app6.Diamond"/>
 </qualifiedTypeNameHistroy>
