@@ -10,4 +10,6 @@
     <fullyQualifiedTypeName name="com.xworkz.casting.util4.BrandUtil"/>
     <fullyQualifiedTypeName name="com.xworkz.chaining.app.Mushroom"/>
     <fullyQualifiedTypeName name="com.xworkz.chaining.app6.Diamond"/>
+    <fullyQualifiedTypeName name="com.xworkz.overloading.app.Spects"/>
+    <fullyQualifiedTypeName name="com.xworkz.overloading.app.IronBox"/>
 </qualifiedTypeNameHistroy>
