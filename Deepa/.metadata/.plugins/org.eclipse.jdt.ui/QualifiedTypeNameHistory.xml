@@ -12,4 +12,13 @@
     <fullyQualifiedTypeName name="com.xworkz.chaining.app6.Diamond"/>
     <fullyQualifiedTypeName name="com.xworkz.overloading.app.Spects"/>
     <fullyQualifiedTypeName name="com.xworkz.overloading.app.IronBox"/>
+    <fullyQualifiedTypeName name="com.xworkz.overloading.app.Hotel"/>
+    <fullyQualifiedTypeName name="com.xworkz.overloading.app.Umbrella"/>
+    <fullyQualifiedTypeName name="com.xworkz.overloading.app.Stapler"/>
+    <fullyQualifiedTypeName name="com.xworkz.overloading.app.Ladder"/>
+    <fullyQualifiedTypeName name="com.xworkz.overloading.app.Plier"/>
+    <fullyQualifiedTypeName name="com.xworkz.overloading.app.Mouse"/>
+    <fullyQualifiedTypeName name="com.xworkz.overloading.app.Elevator"/>
+    <fullyQualifiedTypeName name="com.xworkz.deepa.app.Coal"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
 </qualifiedTypeNameHistroy>
