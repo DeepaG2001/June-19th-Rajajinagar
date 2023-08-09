@@ -8,7 +8,7 @@ public class Bangle {
 	}
 	public boolean broken()
 	{
-		System.out.println("invocking broken in Bangle");
+		System.out.println("invocking broken in Super Bangle");
 		return false;
 		
 	}

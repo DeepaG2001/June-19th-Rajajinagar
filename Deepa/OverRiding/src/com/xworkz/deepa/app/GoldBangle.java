@@ -6,12 +6,16 @@ public class GoldBangle extends Bangle {
 	public void sound()
 	{
 	   System.out.println("invocking no arg in Bangle");
+	   super.broken();
+	   this.broken();
 	}
-
+	@Override
 	public boolean broken()
 	{
-	 System.out.println("invocking broken in Bangle");
-	 return false;
-
+		System.out.println("invocking broken this in Bangle");
+		return false;
+		
 	}
+ 
+	
 }
