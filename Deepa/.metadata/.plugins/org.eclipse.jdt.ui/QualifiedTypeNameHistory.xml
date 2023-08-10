@@ -23,4 +23,10 @@
     <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="com.xworkz.loadride.app.Bakery"/>
     <fullyQualifiedTypeName name="com.xworkz.loadride.app.Hostel"/>
+    <fullyQualifiedTypeName name="com.xworkz.loadride.app.Temple"/>
+    <fullyQualifiedTypeName name="com.xworkz.loadride.app.GaneshaTemple"/>
+    <fullyQualifiedTypeName name="com.xworkz.loadride.app.Market"/>
+    <fullyQualifiedTypeName name="com.xworkz.loadride.app.FlowerMarket"/>
+    <fullyQualifiedTypeName name="com.xworkz.loadride.app.Street"/>
+    <fullyQualifiedTypeName name="com.xworkz.loadride.app.Zoo"/>
 </qualifiedTypeNameHistroy>
