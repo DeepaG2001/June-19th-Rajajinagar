@@ -20,7 +20,6 @@
     <fullyQualifiedTypeName name="com.xworkz.overloading.app.Mouse"/>
     <fullyQualifiedTypeName name="com.xworkz.overloading.app.Elevator"/>
     <fullyQualifiedTypeName name="com.xworkz.deepa.app.Coal"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="com.xworkz.loadride.app.Bakery"/>
     <fullyQualifiedTypeName name="com.xworkz.loadride.app.Hostel"/>
     <fullyQualifiedTypeName name="com.xworkz.loadride.app.Temple"/>
@@ -29,4 +28,16 @@
     <fullyQualifiedTypeName name="com.xworkz.loadride.app.FlowerMarket"/>
     <fullyQualifiedTypeName name="com.xworkz.loadride.app.Street"/>
     <fullyQualifiedTypeName name="com.xworkz.loadride.app.Zoo"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="com.xworkz.mall.app.Mall"/>
+    <fullyQualifiedTypeName name="com.xworkz.mall.app.ShoppingMall"/>
+    <fullyQualifiedTypeName name="com.xworkz.mall.app.HouseSite"/>
+    <fullyQualifiedTypeName name="com.xworkz.mall.app.Site"/>
+    <fullyQualifiedTypeName name="com.xworkz.mall.app.AcademicProject"/>
+    <fullyQualifiedTypeName name="com.xworkz.mall.app.FinalProject"/>
+    <fullyQualifiedTypeName name="com.xworkz.mall.app.Development"/>
+    <fullyQualifiedTypeName name="com.xworkz.mall.app.SmartCity"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.code.Source.Feature"/>
+    <fullyQualifiedTypeName name="com.xworkz.mall.app.Feature"/>
+    <fullyQualifiedTypeName name="com.xworkz.mall.app.UpCommimg"/>
 </qualifiedTypeNameHistroy>
